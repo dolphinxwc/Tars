@@ -504,3 +504,7 @@ Deployment message:
 Upload patch package：
 
 ![tars](docs/images/tars_tarsqueryproperty_patch_en.png)
+
+Finally,there are some paths you may need to check for troubleshooting once the system doesn't work as you wish.
+(1) /usr/local/app/TarsWeb/log
+(2) /usr/local/app/tars/app_log/tars
